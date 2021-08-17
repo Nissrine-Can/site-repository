@@ -1,0 +1,10 @@
+body {
+    background: lightpink;
+  }
+  h1 {
+      color: darkmagenta;
+      text-align: center;
+      padding: 30px;
+      border: turquoise solid 5px;
+      font-size: 60px;
+  }
